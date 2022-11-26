@@ -1,6 +1,10 @@
-# project_a9d7m_n8g3b_y2y8m
+UBC Housing Database Application
 
-CPSC 304 Group 93
+!This project is not meant to be duplicated for the purposes of graded coursework.!
 
-This project is not meant to be duplicated for the purposes of graded coursework.
-This project is based on the UBC housing system such as resident and residence information. Users will be able to access relevant data and create queries. 
+Languages used: SQL, Java
+
+This is an application that models the UBC Housing system. The database has tables for all the possible entities in the housing system such as campuses, residences, residents, amenities and residence staff and the relationships between them. 
+Current residents can view their personal residence information such as their room number and rent by logging in with their login information. They can also delete their residency if they want to move out, and visitors can update their length of stay. Prospective residents can look at information regarding the residences such a rent, types of rooms and amenities. They can also submit an application to live in UBC Housing.
+
+
