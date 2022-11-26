@@ -1,4 +1,4 @@
-#UBC Housing Database Application
+# UBC Housing Database Application
 
 !This project is not meant to be duplicated for the purposes of graded coursework.!
 
