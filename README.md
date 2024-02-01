@@ -1,6 +1,5 @@
 # UBC Housing Database Application
 
-!This project is not meant to be duplicated for the purposes of graded coursework.!
 
 
 This is an application that models the UBC Housing system. The database has tables for all the possible entities in the housing system such as campuses, residences, residents, amenities and residence staff and the relationships between them. 
